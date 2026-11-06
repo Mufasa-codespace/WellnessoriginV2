@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wellness-origin-seo-preview.bmaq12.chatgpt.site/sitemap.xml
+# Private preview is protected by access control and page-level noindex.

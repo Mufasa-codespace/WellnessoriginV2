@@ -1,0 +1,37 @@
+[
+  {
+    "from": "/laser-lipo/",
+    "to": "/laser-lipo-carmel-indiana/",
+    "status": 301
+  },
+  {
+    "from": "/spa-services/laser-hair-removal/",
+    "to": "/laser-hair-removal/",
+    "status": 301
+  },
+  {
+    "from": "/spa-services/laser-lipo-carmel-indiana/",
+    "to": "/laser-lipo-carmel-indiana/",
+    "status": 301
+  },
+  {
+    "from": "/services/facials/",
+    "to": "/spa-services/facials/",
+    "status": 301
+  },
+  {
+    "from": "/services/wellness-therapies/",
+    "to": "/spa-services/wellness-therapies/",
+    "status": 301
+  },
+  {
+    "from": "/services/wellness-consulting/",
+    "to": "/spa-services/wellness-consulting/",
+    "status": 301
+  },
+  {
+    "from": "/spa-sales-memberships/",
+    "to": "/spa-sales/",
+    "status": 301
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "pages": [
+    {
+      "path": "/",
+      "url": "https://wellnessoriginindy.com/",
+      "name": "Wellness Origin Spa",
+      "preview_summary": "Explore massage, facials and wellness services at Wellness Origin Spa in Carmel, Indiana. Find service details, published pricing and ways to plan your visit."
+    },
+    {
+      "path": "/spa-services/facials/",
+      "url": "https://wellnessoriginindy.com/spa-services/facials/",
+      "name": "Facials",
+      "preview_summary": "Explore custom blend, microdermabrasion, dermaplaning and other facial options. Ask the team which service fits your skincare goals and what preparation and aftercare it requires."
+    },
+    {
+      "path": "/spa-services/massage/",
+      "url": "https://wellnessoriginindy.com/spa-services/massage/",
+      "name": "Massage",
+      "preview_summary": "Choose custom, Swedish, deep tissue, prenatal, reflexology, lymphatic drainage or sports massage. Discuss your preferences and pressure with your therapist before your session."
+    },
+    {
+      "path": "/spa-services/hyperbaric-oxygen-therapy/",
+      "url": "https://wellnessoriginindy.com/spa-services/hyperbaric-oxygen-therapy/",
+      "name": "Hyperbaric Oxygen Therapy",
+      "preview_summary": "The spa lists 60- and 90-minute chamber sessions. Contact the team to confirm equipment details, screening and preparation before booking. Discuss medical concerns with a qualified healthcare professional."
+    },
+    {
+      "path": "/spa-services/wellness-therapies/",
+      "url": "https://wellnessoriginindy.com/spa-services/wellness-therapies/",
+      "name": "Wellness Therapies",
+      "preview_summary": "The published wellness therapies page lists BEMER sessions on a specialized mat. Contact the team for equipment details, suitability and appointment information."
+    },
+    {
+      "path": "/spa-services/",
+      "url": "https://wellnessoriginindy.com/spa-services/",
+      "name": "Spa Services",
+      "preview_summary": "Compare massage, facials, body contouring, light-based treatments and wellness consultations in Carmel. Each service page includes its own appointment and pricing information."
+    },
+    {
+      "path": "/spa-services/red-light-therapy/",
+      "url": "https://wellnessoriginindy.com/spa-services/red-light-therapy/",
+      "name": "Red Light Therapy",
+      "preview_summary": "A 30-minute lie-down appointment using a full-body red and near-infrared light blanket. A full-body-plus-face option adds a face mask during the same visit."
+    },
+    {
+      "path": "/spa-services/ipl-photofacial/",
+      "url": "https://wellnessoriginindy.com/spa-services/ipl-photofacial/",
+      "name": "IPL Photofacial",
+      "preview_summary": "Explore the spa’s intense pulsed light facial service. Ask the provider to assess suitability and explain the equipment, preparation, possible risks and aftercare before booking."
+    },
+    {
+      "path": "/book-now/",
+      "url": "https://wellnessoriginindy.com/book-now/",
+      "name": "Book an Appointment",
+      "preview_summary": "Choose a service, then select a date and time in the online booking system. Returning clients can sign in through My Account. Call 317-979-1234 for booking help."
+    },
+    {
+      "path": "/spa-sales/",
+      "url": "https://wellnessoriginindy.com/spa-sales/",
+      "name": "Spa Sales & Memberships",
+      "preview_summary": "Explore published service offers and massage and facial memberships. Call the spa to confirm current availability, eligibility and membership terms before purchasing."
+    },
+    {
+      "path": "/spa-services/wellness-consulting/",
+      "url": "https://wellnessoriginindy.com/spa-services/wellness-consulting/",
+      "name": "Wellness Consulting",
+      "preview_summary": "Wellness consultations focus on nutrition and personal wellness goals. The spa lists initial 90-minute appointments and 60-minute follow-ups, with phone consultations available."
+    },
+    {
+      "path": "/spa-services/laser-tattoo-removal/",
+      "url": "https://wellnessoriginindy.com/spa-services/laser-tattoo-removal/",
+      "name": "Laser Tattoo Removal",
+      "preview_summary": "Tattoo removal pricing depends on treatment-area size. Multiple visits may be needed, and complete removal is not guaranteed. Arrange a consultation to discuss your tattoo and expected limitations."
+    },
+    {
+      "path": "/spa-services/laser-dark-spot-removal/",
+      "url": "https://wellnessoriginindy.com/spa-services/laser-dark-spot-removal/",
+      "name": "Laser Dark Spot Removal",
+      "preview_summary": "The spa lists appointments for 1–10 or 11–20 spots. Ask about suitability, the equipment used, preparation, risks and aftercare before scheduling a treatment."
+    },
+    {
+      "path": "/laser-lipo-carmel-indiana/",
+      "url": "https://wellnessoriginindy.com/laser-lipo-carmel-indiana/",
+      "name": "Laser Lipo",
+      "preview_summary": "The spa lists laser lipo as a non-surgical body contouring service combined with whole-body vibration. Sessions are approximately one hour. Ask about equipment and suitability before booking."
+    },
+    {
+      "path": "/spa-services/body-contouring/",
+      "url": "https://wellnessoriginindy.com/spa-services/body-contouring/",
+      "name": "Body Contouring",
+      "preview_summary": "Explore body contouring appointments using the modalities listed by the spa, including ultrasonic, radio-frequency, cupping, red-light and EMS options. Ask which modalities would be included in your appointment."
+    },
+    {
+      "path": "/laser-hair-removal/",
+      "url": "https://wellnessoriginindy.com/laser-hair-removal/",
+      "name": "Laser Hair Removal",
+      "preview_summary": "Explore appointments for unwanted facial or body hair, with small, medium and large treatment-area pricing. A consultation is needed to discuss the equipment used, suitability and a proposed series of visits."
+    },
+    {
+      "path": "/payment-plans/",
+      "url": "https://wellnessoriginindy.com/payment-plans/",
+      "name": "Payment Plans",
+      "preview_summary": "Wellness Origin Spa’s published website offers payment-plan information through Cherry. Check current provider terms, eligibility and any interest or fees before applying."
+    },
+    {
+      "path": "/blogs/",
+      "url": "https://wellnessoriginindy.com/blogs/",
+      "name": "Spa Journal",
+      "preview_summary": "Read guides to preparing for spa visits and choosing skincare services, with links to the relevant service menus and appointment information."
+    },
+    {
+      "path": "/terms-conditions/",
+      "url": "https://wellnessoriginindy.com/terms-conditions/",
+      "name": "Terms & Conditions",
+      "preview_summary": "Read the published terms, including appointment cancellation, late-arrival and purchasing policies."
+    },
+    {
+      "path": "/privacy-policy/",
+      "url": "https://wellnessoriginindy.com/privacy-policy/",
+      "name": "Privacy Policy",
+      "preview_summary": "Read the published policy describing the website’s information practices."
+    },
+    {
+      "path": "/organic-health-food-store/",
+      "url": "https://wellnessoriginindy.com/organic-health-food-store/",
+      "name": "Organic Health Food Store",
+      "preview_summary": "Browse the spa’s selection of organic foods, supplements and skincare in Carmel. Contact the team about current stock or visit its linked online store."
+    },
+    {
+      "path": "/eminence-organics-skin-care/",
+      "url": "https://wellnessoriginindy.com/eminence-organics-skin-care/",
+      "name": "Eminence Organics Skin Care",
+      "preview_summary": "Explore Eminence Organics skincare at Wellness Origin Spa in Carmel. Ask the team about products and current availability for your skincare routine."
+    },
+    {
+      "path": "/accessibility-statement/",
+      "url": "https://wellnessoriginindy.com/accessibility-statement/",
+      "name": "Accessibility Statement",
+      "preview_summary": "Read the published accessibility statement and how to contact the spa about access barriers."
+    },
+    {
+      "path": "/we-are-hiring-carmel-spa/",
+      "url": "https://wellnessoriginindy.com/we-are-hiring-carmel-spa/",
+      "name": "Massage Therapist Careers",
+      "preview_summary": "The spa’s careers page invites licensed massage therapists to inquire about opportunities in Carmel. Call 317-979-1234 to confirm current openings and application details."
+    },
+    {
+      "path": "/contact/",
+      "url": "https://wellnessoriginindy.com/contact/",
+      "name": "Contact Wellness Origin Spa",
+      "preview_summary": "Visit Wellness Origin Spa at 937 Keystone Way N., Carmel, IN 46032. Call 317-979-1234 to ask about services or appointments."
+    },
+    {
+      "path": "/loyalty-program/",
+      "url": "https://wellnessoriginindy.com/loyalty-program/",
+      "name": "Loyalty Program",
+      "preview_summary": "Ask the spa about rewards for eligible visits and referrals, your points balance and redemption terms. Reviews should be voluntary and should not earn rewards."
+    },
+    {
+      "path": "/how-professional-facials-can-improve-your-skincare-routine/",
+      "url": "https://wellnessoriginindy.com/how-professional-facials-can-improve-your-skincare-routine/",
+      "name": "How Professional Facials Can Improve Your Skincare Routine",
+      "preview_summary": "A facial appointment offers time to discuss your skin concerns and skincare routine. Learn what to ask about cleansing, exfoliation, hydration and home care before choosing a service."
+    },
+    {
+      "path": "/what-to-expect-from-laser-hair-removal-treatments/",
+      "url": "https://wellnessoriginindy.com/what-to-expect-from-laser-hair-removal-treatments/",
+      "name": "What to Expect From Laser Hair Removal Treatments",
+      "preview_summary": "Before booking hair removal, ask which device is used, whether it suits your skin and hair, and what preparation and aftercare are needed. Treatment plans and results vary."
+    },
+    {
+      "path": "/category/treatments/",
+      "url": "https://wellnessoriginindy.com/category/treatments/",
+      "name": "Treatment Guides",
+      "preview_summary": "Browse guides focused on treatment appointments, including facials and hair removal. Use the service pages to check options and published prices."
+    }
+  ],
+  "policy_pages": {
+    "/terms-conditions/": {
+      "exact_captured_main_text": "Terms & Conditions\nHome\nTerms & Conditions\nThe following Terms & Conditions apply to the use of this website as well as all transactions and services conducted through the site or at our location.\nLegal Notice\nAll notices from Wellness Origin to You may be posted on our website and will be deemed delivered within thirty (30) days after posting. Notices from You to Wellness Origin shall be made either by e-mail (sent to the address provided on our website) or first-class mail to:\nWellness Origin 937 Keystone Way N Carmel, IN 46032\nDelivery shall be deemed to have been made by You to Wellness Origin five (5) days after the date sent.\nCopyright\nAll content appearing on this website is the property of Wellness Origin.\nCopyright © 2016-2026 Wellness Origin. All rights reserved.\nAs a user, you are authorized only to view, copy, print, and distribute documents on this website so long as (1) the document is used for informational purposes only, and (2) any copy includes the following copyright notice: Copyright © 2016-2026 Wellness Origin. All rights reserved.\nUse of Site\nThis site may contain other proprietary notices and copyright information, the terms of which must be observed and followed. Information on this site may contain technical inaccuracies or typographical errors. Information, including product pricing and availability, may be changed or updated without notice.\nWellness Origin reserves the right to refuse service, terminate accounts, and/or cancel orders in its discretion, including if customer conduct violates applicable law or is harmful to the interests of Wellness Origin.\nFDA Statement and Medical Disclaimer\nInformation within this site is for educational purposes only. Statements on this site have not been evaluated by the U.S. Food and Drug Administration. Products and services on this site are not intended to diagnose, treat, cure, or prevent any disease. Wellness Origin representatives are not medical doctors and cannot give medical advice.\nThe services offered are wellness and cosmetic in nature and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified physician before starting any new wellness, diet, exercise, or supplementation program, or if you have or suspect you might have a health problem. Pregnant or nursing mothers should consult their physician prior to using any service or product. You assume all risks associated with your use of our services.\nPrivacy Policy\nOur use of personal information submitted through this website is governed by our separate Privacy Policy.\nAge Requirement\nThe Site and our services are not directed to persons under 13 years of age. Users must be at least 13 years old to use the Site. For users under 18, a parent or legal guardian must provide consent for use and any information submission.\nCancellation, No-Show, and Late Arrival Policy\nPlease arrive at least 15 minutes before your appointment start time.\nOut of respect and consideration of our other clients and our Specialists, we kindly ask for a minimum of 24 hours advanced notification to change or cancel a single service. A 48-hour minimum cancellation is required for multiple services scheduled for the same day.\nA credit card is required at time of scheduling services. We reserve the right to charge up to 100% of the price of service scheduled for any late cancellations (under the 24-hour minimum, prior to appointment). Our policy is designed out of respect to our other guests, as well as compensation to our employees who depend on us to manage their schedules and support their careers with Wellness Origin.\nNo Call/No Show will result in the total cost of service scheduled.\nLate Arrivals: Your session may be shortened to accommodate clients scheduled following your appointment. Depending upon your arrival time, your therapist will determine if there is enough time remaining to start your treatment. Regardless of the length of treatment, you will be responsible for the price of the full service.\nShipping & Delivery\nAt this time, Wellness Origin ships merchandise to locations within the continental United States. We are currently not shipping internationally or outside the continental US. The risk of loss and title for all merchandise ordered on this website pass to you when the merchandise is delivered to the shipping carrier.\nWe endeavor to ship all orders within 24-48 hours of receipt. However, if we are out of stock on an item, it may take a few additional days to ship the merchandise. Orders placed Friday afternoon through Sunday will be shipped the following Monday.\nWe will not be able to notify you via email when your order has shipped because of the multiple facilities our products are shipped from. Expect your products to arrive in multiple shipments. Upon receipt of your order, please inspect all items to ensure none were damaged during shipping. If there are damaged items, please refer to our Return Policy for the appropriate information.\nAll the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.\nSales Tax\nWellness Origin charges sales tax for merchandise ordered on this website based on the applicable state sales tax rate and the location to which the order is being shipped.\nWarranties\nThe content included in this website has been compiled from a variety of sources and is subject to change without notice as are any products, programs, offerings, or technical information described in this website. Wellness Origin makes no representation or warranty whatsoever regarding the completeness, quality, or adequacy of the website or content, or the suitability, functionality, or operation of this website or its content. By using this website, you assume the risk that the content on this website may be inaccurate, incomplete, offensive, or may not meet your needs and requirements.\nWELLNESS ORIGIN SPECIFICALLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT WITH RESPECT TO THESE WEB PAGES AND CONTENT. IN NO EVENT WILL WELLNESS ORIGIN BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n— OR Depending on State —\nThe information and content on this server is provided “as is” with no warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Any warranty that is provided in connection with any of the products and services described on this website is provided by the advertiser or manufacturer only, and not by Wellness Origin.\nThe references and descriptions of products or services within the website materials are provided “as is” without any warranty of any kind, either express or implied. Wellness Origin is not liable for any damages, including any consequential damages, of any kind that may result to the user from the use of the materials on this website or of any of the products or services described hereon.\nThe descriptions of, and references to, products, services and companies on this website are the sole responsibility of the companies providing the information (“advertisers”), and not Wellness Origin.\nThe inclusion of material on this server does not imply any endorsement by Wellness Origin, which makes no warranty of any kind with respect to the subject matter of the server materials advertised.\nA possibility exists that the server materials could include inaccuracies or errors. Additionally, a possibility exists that unauthorized additions, deletions, and alterations could be made by third parties to the server materials. Although Wellness Origin tries to ensure the integrity and the accuracy of the server materials, it makes no guarantees about their correctness or accuracy. Before relying on any representation made in any of the server materials, check with the advertiser of the product or service to ensure that the information you are relying upon is correct.\nReturn Policy\nAll unopened retail products purchased within 30 days can be returned for a credit to your account to be used at Wellness Origin. No returns or refunds given for food products. Please call customer service at 317-979-1234 if there are any issues with perishable food purchases.\nNo Refunds: Cash, check, or credit card purchases are non-refundable.\nVoid Where Prohibited\nAlthough the information on this website is accessible worldwide, not all products or services discussed in this website are available to all persons or in all geographic locations or jurisdictions. Wellness Origin and the advertisers each reserve the right to limit the provision of their products or services to any person, geographic area, or jurisdiction they so desire and to limit the quantities of any products or services that they provide. Any offer for any product or service made in the materials on this website is void where prohibited.\nGoverning Law\nIn the event of litigation, both parties agree that the Law of the State of Indiana shall apply and both parties shall consent to the jurisdiction of said State’s courts, or in the event of diversity of citizenship, the United States District Court for the (District). Both parties expressly waive a trial by jury.\nMiscellaneous\nThe Terms & Conditions constitute the entire agreement between you and Wellness Origin with respect to this website. The Terms & Conditions supersede all prior or contemporaneous communications and proposals, whether electronic, oral or written between you and Wellness Origin with respect to this website. No modification of the Terms & Conditions shall be effective unless it is authorized by Wellness Origin. If any provision of the Terms & Conditions is found to be contrary to law, then such provision(s) shall be construed in a manner to closely reflect, as much as possible, the intentions of the parties, with the other provisions remaining in full force and effect.\nBounced Check Fee: $25.00\nDisclaimer\nAll information and material contained within www.wellnessoriginindy.com is strictly for informational and educational purposes only.\nWe make no express or implied warranties, representations or endorsements whatsoever (including without limitation warranties of title, merchantability or fitness for a particular purpose) with respect to any products or services that may be referenced, described, or to which our website may provide a hyperlink to from time to time.\nYou expressly understand and agree that www.wellnessoriginindy.com shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including intangible losses, resulting from: (i) the use or the inability to use our website, our services, or any services or products of any third party; or (ii) statements or conduct of any third party.\nNone of the statements on this site are a recommendation as to how to treat any particular disease or health related condition, nor have they been evaluated by the Food and Drug Administration. Information and advice is based on our own research and experiences.\nYou should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment.\nYou should consult with a health care professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem.\nPregnant or nursing mothers should consult their physician prior to using any nutritional supplement.\nAll information contained on this website is based on research and testing to date and is for informational and educational purposes and is not intended to make any unsupported medical claim or the claim that any product is intended to cure or prevent any disease. These statements have not been evaluated by the Food & Drug Administration (FDA). Any serious health concern should be treated by a qualified medical practitioner. Pregnant or nursing mothers should consult their physician prior to using any nutritional supplement.\nPurchase Policy\nAll payments through Wellness Origin are processed in USD. We accept cash, check or major credit cards for in-store purchases. Online purchases may be conducted using major credit cards. Gift cards are also issued and redeemed in USD.\nAll purchases made through Wellness Origin or wellnessoriginindy.com are subject to our return policy as listed above.\nAll services purchased expire in 1 year from the date of purchase.\nAdditional Terms & Conditions\nWe want to make sure that you have the most relaxing, enjoyable spa experience at Wellness Origin. To create an ambient environment for you, we respectfully ask that you follow our terms and conditions.\nPlease respect our quiet, tranquil environment to ensure the enjoyment and peace of all spa guests.\nWe accept payments and gratuity in cash, check and credit card. A minimum of 15% gratuity is courteous, as our spa practitioners spend additional time and effort to create an environment of maximum relaxation and peace for you.\nWe respectfully ask that you understand our policies – this allows us to maximize the visit of every client coming through our doors.\nLiability Waiver\nBy purchasing a Wellness Origin product or service, I acknowledge that the treatment is for the intended purpose of assisting my personal health and beauty needs. Additional uses and outcomes of Wellness Origin products and services will be provided by the practitioner, and I will be asked to acknowledge such information as well.\nI have read over the information on my specific products and services purchased through Wellness Origin, and I understand the benefits and surrounding information. Wellness Origin is not responsible for any injury, lost or stolen items or implications related to my experience at the spa. I assume liability for my actions and my experience at Wellness Origin Day Spa and Wellness Center outside of the stated perimeters.\nMemberships\nThe following terms and conditions apply:\nAuto Payments: You will be charged each month on the first of the month. This charge will occur monthly, regardless of whether you show up for your monthly service or use the product discount.\nAppointment Scheduling: Appointments can be scheduled at our front desk, by phone, or online, per standard scheduling procedure of our Spa.\nCancellation of Program: For cancellation, we require a 30 day notice, in order for our Spa staff to undergo standard cancelling procedure.\nCancelling Appointments: Appointments which are cancelled can be rescheduled for another time slot. You will notify Wellness Origin at least 24 hours in advance in the event of an appointment cancellation. We will not honor a refund in the case of a late cancellation.\nProgram Duration: There is no end date to the program. You are in the program until you choose to remove yourself.\nNon-transferable notice: Membership perks cannot be combined with any other offer. You receive one service at the membership discounted price each month, and this service may not roll over to upcoming months. Membership perks cannot be shared with other new or existing clients.\nRefunds: All service transactions are non-refundable. Gift Certificates are non-refundable.\nBooking an appointment at Wellness Origin, you are agreeing to the terms of our Cancellation and Refund Policy.\nText Messaging and Opt-In Data\nWe may send you text messages (SMS) for appointment reminders, order updates, promotions, or other service-related communications. You will only receive SMS messages if you have explicitly opted in (e.g., by providing your phone number and checking a consent box during booking, checkout, or sign-up).\nOpting in is voluntary and not required to use our website or services. Message and data rates may apply. Frequency varies.\nOpt-out: You may opt out of receiving text messages at any time by replying STOP to any message we send, or by contacting us at [email protected]. After opting out, you will receive one final confirmation message. Opting out does not affect other communications (e.g., email or account-related notices).\nAny text messaging originator opt-in data and consent information will not be shared with any third parties.",
+      "source_path": "/workspace/shared/wellness-source-extracted/Wellness-Origin-Website-Snapshot/pages/terms-conditions--a4680136ff/content.txt",
+      "note": "Exact content text captured from original page; email is Cloudflare-obfuscated as [email protected]. Preserve legal language, do not silently amend."
+    },
+    "/privacy-policy/": {
+      "exact_captured_main_text": "Privacy Policy\nHome\nPrivacy Policy\nWellness Origin (“we,” “us,” or “our”) operates the website at wellnessoriginindy.com (the “Site”) and provides wellness and spa services at our location in Carmel, Indiana. We are committed to protecting your privacy. This Privacy Policy describes how we collect, use, disclose, and safeguard your personal information when you visit our Site, book services, or interact with us. It applies to all users of the Site and our services. By using the Site or our services, you agree to the practices described in this policy. If you do not agree, please do not use the Site or our services.\nWellness Origin is the sole owner of the information collected on this Site.\n1. Information We Collect\nWe collect information from you in several ways, including information you provide directly and information collected automatically through data collection technologies.\nInformation You Provide\nDuring Purchases or Orders: On our order and catalog request forms, we request contact information (such as name, email, phone number, and shipping address) and financial information (such as credit card number and expiration date). This is used for billing purposes and to fulfill your orders.\nIf Order Issues Arise: We use your contact information (especially email or phone) to reach out if we encounter problems processing an order or booking.\nOther Interactions: Any other personally identifiable information you voluntarily provide (e.g., via contact forms, emails, inquiries, or when signing up for newsletters or promotions).\nAutomatic Data Collection Technologies\nAs you navigate the Site, we may automatically collect certain information using technologies like cookies, web beacons, server logs, and similar tools. This may include your IP address, browser type, device identifiers, pages viewed, time spent, and referring website. We use this to analyze trends, administer the Site, track user movements, and gather demographic information for aggregate use.\nCookies and Related Technologies\nA cookie is a small piece of data stored on your hard drive that contains information about you. Cookies are required to maintain the shopping cart functionality, and the Site may not work correctly if cookies are disabled. We use information from cookies to set user preferences and personalize your experience. We may also use third-party cookies for analytics or advertising purposes (e.g., to measure ad performance or retarget visitors). Cookies and related data are not shared with third parties for their own marketing without your consent. You can manage or disable cookies through your browser settings, though doing so may limit certain Site features.\nWe do not collect information automatically beyond what is necessary for site functionality unless you provide it.\n2. How We Use Your Information\nWe use the collected information for the purposes described here:\nTo process and fulfill your orders, bookings, and services, including billing and shipping.\nTo communicate with you about your orders, inquiries, or appointments.\nTo maintain shopping cart sessions and personalize your experience (via cookies).\nFor internal business purposes, such as improving our services, analyzing usage, and preventing fraud.\nFor marketing activities, including sending promotional emails, newsletters, or text-based communications about our services, offers, or events (with your consent where required).\nWe may share information with third-party direct marketing partners only if you opt in, and we are not responsible for third-party policies or practices—please review their privacy policies. We will not sell, share, or rent your personal information to others in ways different from what is disclosed in this policy.\n3. Sharing and Disclosure\nWe do not sell your personal information to third parties. We may share information only as necessary:\nWith service providers who assist us in operating the Site, processing payments, or fulfilling orders (e.g., shipping carriers or payment processors), under strict confidentiality.\nWith affiliate entities (if any in the future) for business purposes consistent with this policy.\nWith third-party advertising partners for targeted ads based on your interactions (with your consent where required).\nIn the event of a merger, acquisition, or sale of assets (successors section), where your information may be transferred to a successor entity, subject to this policy or notice of changes.\nAs required by law, to protect our rights, or in response to legal processes (e.g., subpoenas, court orders, or enforcement actions).\n4. Links to Other Sites\nThis Site contains links to other websites. We are not responsible for the privacy practices or content of those sites. We encourage you to read the privacy statements of any third-party sites that collect personally identifiable information. This Privacy Policy applies only to information collected by this Site.\n5. Security\nWe take reasonable precautions to protect your information. When you submit sensitive information (such as credit card details) via the Site, it is protected both online and offline.\nOnline: Sensitive information is encrypted using industry-standard SSL (Secure Sockets Layer) technology. On secure pages (e.g., order forms), your browser’s lock icon will appear locked.\nOffline: Access to all user information (not just sensitive data) is restricted in our offices. Only employees who need it for specific job functions (e.g., billing or customer service) have access to personally identifiable information.\nData storage and processing occur in the United States. While we implement reasonable safeguards to protect your information, no method of transmission over the internet or electronic storage is 100% secure. You are responsible for maintaining the confidentiality of your passwords and account information. If you suspect any unauthorized access, contact us immediately.\nIf you have questions about our security practices, email us at [email protected].\n6. Notification of Changes\nIf we change this Privacy Policy, we will post the updated version on the Site so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.\nIf we decide to use personally identifiable information in a materially different way from that stated at the time it was collected, we will notify users by email. You will have a choice whether or not to allow us to use your information in that different manner. We will use information in accordance with the privacy policy in effect when the information was collected.\nYour continued use of the Site following any posted changes constitutes acceptance of those changes.\n7. Text Messaging and Opt-In Data\nAny text messaging originator opt-in data and consent information will not be shared with any third parties. We may use your information for text-based communications with your consent.\n8. Mobile Push Notifications and Alerts\nIf you opt in to receive mobile push notifications or alerts (e.g., via our app or Site features), we may send you updates about your appointments, promotions, or services. You can opt out at any time through your device settings or by contacting us.\n9. Email Messages and Promotional Communications\nWe may send you email messages or promotional communications about our services, offers, or events. You may opt out of promotional emails at any time by following the unsubscribe instructions in any email we send you or by contacting us at [email protected].\n10. Updating Your Personal Information\nYou may review, update, or correct your personal information by logging into your account (if applicable) or contacting us at [email protected]. We will respond to your request within a reasonable timeframe.\n11. Children’s Privacy\nOur Site is not directed to children under 13 years of age. We do not knowingly collect personal information from children under 13 without verifiable parental consent. If we learn that we have collected such information, we will promptly delete it.\n12. HIPAA and Protected Health Information\nWe do not request, use, disclose, or access protected health information (PHI) as defined under HIPAA. Our services are wellness and cosmetic in nature and are not intended to handle PHI. This Privacy Policy does not constitute a HIPAA notice.\n13. Contact Us\nIf you have questions about this Privacy Policy or our data practices, please contact us at:\nWellness Origin 937 Keystone Way N Carmel, IN 46032\nEmail: [email protected]\nWe encourage you to review this policy periodically.\nLeave a Reply Cancel reply\nYour email address will not be published. Required fields are marked *\nComment *\nName*\nEmail*\nWebsite\nSave my name, email, and website in this browser for the next time I comment.\nΔ",
+      "source_path": "/workspace/shared/wellness-source-extracted/Wellness-Origin-Website-Snapshot/pages/privacy-policy--c54a4e2556/content.txt",
+      "note": "Exact content text captured from original page; email is Cloudflare-obfuscated as [email protected]. Preserve legal language, do not silently amend."
+    },
+    "/accessibility-statement/": {
+      "exact_captured_main_text": "Accessibility statement\nHome\nAccessibility statement\nAccessibility statement\nWellness Origin is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards.\nConformance status\nThe Web Content Accessibility Guidelines (WCAG) defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA.\nWellness Origin is making constant efforts to improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible, and unhindered use for those of us with disabilities.\nWe aim to make all pages and content on https://wellnessoriginindy.com/ accessible, but some content may not yet fully meet the highest accessibility standards. This could be due to challenges in identifying the most suitable technological solution.\nWe may revise this Statement periodically to reflect improvements or changes to our accessibility practices.\nFeedback\nWe welcome your feedback on the accessibility of Wellness Origin website. Please let us know if you encounter accessibility barriers on our website:\nE-mail: [email protected]\nWe try to respond to feedback within 3–5 business days.",
+      "source_path": "/workspace/shared/wellness-source-extracted/Wellness-Origin-Website-Snapshot/pages/accessibility-statement--4d8ab2c2bf/content.txt",
+      "note": "Exact content text captured from original page; email is Cloudflare-obfuscated as [email protected]. Preserve legal language, do not silently amend."
+    }
+  },
+  "legacy_redirects": [
+    {
+      "from": "/laser-lipo/",
+      "to": "/laser-lipo-carmel-indiana/",
+      "status": 301
+    },
+    {
+      "from": "/spa-services/laser-hair-removal/",
+      "to": "/laser-hair-removal/",
+      "status": 301
+    },
+    {
+      "from": "/spa-services/laser-lipo-carmel-indiana/",
+      "to": "/laser-lipo-carmel-indiana/",
+      "status": 301
+    },
+    {
+      "from": "/services/facials/",
+      "to": "/spa-services/facials/",
+      "status": 301
+    },
+    {
+      "from": "/services/wellness-therapies/",
+      "to": "/spa-services/wellness-therapies/",
+      "status": 301
+    },
+    {
+      "from": "/services/wellness-consulting/",
+      "to": "/spa-services/wellness-consulting/",
+      "status": 301
+    }
+  ]
+}

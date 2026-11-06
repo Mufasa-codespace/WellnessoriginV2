@@ -27,7 +27,7 @@ Fine-pointer users get an optional cursor halo, subtle magnetic buttons and hero
 - Browser review at desktop width and narrow iframe viewports corresponding to 320, 390 and 768 px containers. Effective content widths were 305, 375 and 753 px because of scrollbars; no horizontal overflow after styles loaded.
 - Mobile menu, catalog filter, booking interest selector and FAQ open/close tested.
 - No application JavaScript errors observed; browser-extension errors were present and unrelated.
-- JavaScript is about 4 KB, CSS about 16 KB, all optimized images together about 1.3 MB. This is an asset-budget check, not a Lighthouse or field performance result.
+- JavaScript is about 4 KB, CSS about 18 KB, all optimized images together about 1.3 MB. This is an asset-budget check, not a Lighthouse or field performance result.
 
 ## Still outside the preview
 
@@ -44,3 +44,9 @@ Do not deploy this preview over the live website without an authorized launch, b
 ## Source repository
 
 The user-selected WellnessoriginV2 GitHub repository is public. Its source visibility is independent of the private hosted preview. No GitHub Pages publishing workflow is included.
+
+## Mobile photo update
+
+All 12 service-directory cards now include responsive original images, with full-width photos on narrow screens and a two-column desktop grid. All 12 homepage treatment links include visible thumbnails. Photos have dimensions and alt text and load lazily. The stylesheet URL is versioned to refresh older browser caches.
+
+Browser checks confirmed photos render at 320, 390 and 768 px test-container widths and on desktop, with no page overflow. Category filtering retained the photos: skin, body/laser and wellness were checked; all 12 directory images loaded in the desktop check. Homepage thumbnail layout was visually checked in a 390 px container. These are responsive browser checks, not a physical iPhone test.
